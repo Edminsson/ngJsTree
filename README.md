@@ -6,7 +6,7 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![NPM](https://nodei.co/npm/ng-js-tree.png?mini=true)](https://npmjs.org/package/ng-js-tree)
 
-ngJsTree
+ngJsTree!
 ========
 
 Angular Directive for the famous [JS Tree] library.
